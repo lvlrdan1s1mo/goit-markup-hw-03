@@ -139,6 +139,7 @@ font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2e2f42;
+margin-bottom: 8px;
 }
 .page-title{
     font-family: "Roboto", sans-serif;
@@ -277,16 +278,15 @@ color: #f4f4fd;
 .nav-list{
     display: flex;
 }
-.ul-section-dous{
+.ul-section-duos{
     display: flex;
-    
 }
 .feature{
     display: flex;
     margin: 120px 156px;
 }
-.ul-section-dous li{
-    display: inline-block;
+.ul-section-duos li{
+    margin-right: 24px;
 }
 
 
