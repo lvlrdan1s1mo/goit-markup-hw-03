@@ -119,6 +119,9 @@ color: #404bbf;
     font-family: "Roboto", sans-serif;
 font-weight: 700;
 font-size: 36px;
+margin: auto;
+padding-top: 120px;
+padding-bottom: 72px;
 
 /* line-height: 40px; */ 
 line-height: 111%;
@@ -126,6 +129,7 @@ letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
 text-transform: capitalize
+
 }
 .page-header{
     background: #ffffff;
@@ -283,17 +287,24 @@ color: #f4f4fd;
 }
 .feature{
     display: flex;
-    margin: 120px 156px;
+    margin-top: 120px;
+    margin-bottom: 120px;
 }
 .ul-section-duos li{
     margin-right: 24px;
 }
-
-
-
-
-
-
-
+.box-img{
+    border-radius: 0 0 4px 4px;
+padding: 0px 0px 32px 0px;
+width: 264px;
+height: 380px;
+margin-right: 24px;
+}
+.flex-li{
+    display: flex;
+}
+.img-flex{
+    margin-bottom: 32px;
+}
 
 
