@@ -288,6 +288,7 @@ margin-right: 24px;
     padding-right: 15px;
     margin-left: auto;
     margin-right: auto;
+    display: flex
 }
 .page-nav{
     display: flex;
