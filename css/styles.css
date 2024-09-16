@@ -133,7 +133,9 @@ text-transform: capitalize
 
 }
 .page-header{
+    width: 1158px;
     background: #ffffff;
+    border-bottom: 1px solid #e7e9fc
 }
 .title-main{
     font-family: "Roboto", sans-serif;
@@ -281,7 +283,7 @@ margin-right: 24px;
     background-color: #FFFFFF
 }
 .container{
-    max-width: 1128px;
+    max-width: 1158px;
     padding-left: 15px;
     padding-right: 15px;
     margin-left: auto;
