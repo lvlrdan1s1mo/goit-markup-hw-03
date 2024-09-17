@@ -52,7 +52,6 @@ color: #2e2f42;
 .nav-list{
     display: flex;
     gap: 40px;
-    padding: 24px 0;
 }
 .menu-item{
     display: flex;
@@ -110,6 +109,7 @@ font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
 color: #404bbf;
+padding: 24px 0;
 }
 .title{
     font-family: "Roboto", sans-serif;
