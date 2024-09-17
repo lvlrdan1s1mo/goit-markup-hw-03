@@ -50,7 +50,7 @@ text-transform: uppercase;
 color: #2e2f42;
 }
 .menu-item{
-    margin: 24px 40px;
+    gap: 40px
 }
 
 .menu-link{
@@ -292,6 +292,7 @@ margin-right: 24px;
 }
 .page-nav{
     display: flex;
+    align-items: center; 
 }
 .nav-list{
     display: flex;
