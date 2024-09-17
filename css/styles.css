@@ -278,8 +278,16 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #f4f4fd;
 }
-.title-section-duos{
-    display: none;
+.visually-hidden{
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    border: 0;
+    clip: rect(0, 0, 0, 0);
+    overflow: hidden;
+    white-space: nowrap;
 }
 .section-tres{
     margin: auto;
@@ -300,7 +308,7 @@ margin-right: 24px;
 .container{
     display: flex;
     justify-content: space-between;
-    max-width: 1440px;
+    width: 1158px;
     padding-left: 15px;
     padding-right: 15px;
     margin-right: auto;
@@ -315,7 +323,8 @@ margin-right: 24px;
     margin-bottom: 120px;
 }
 .ul-section-duos li{
-    margin-right: 24px;
+    gap: 24px;
+    width: calc((100% - 72px) / 4);
 }
 .flex-li{
     display: flex;
