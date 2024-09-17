@@ -51,7 +51,9 @@ color: #2e2f42;
 }
 .menu-item{
     display: flex;
-    gap: 40px
+    gap: 40px;
+    padding: 24px 0;
+    
 }
 
 .menu-link{
@@ -297,6 +299,7 @@ margin-right: 24px;
 }
 .nav-list{
     display: flex;
+    gap: 40px
 }
 .ul-section-duos{
     display: flex;
