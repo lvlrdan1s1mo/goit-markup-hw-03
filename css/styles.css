@@ -84,9 +84,12 @@ color: #404bbf;
     gap: 40px;
 }
 .addressa{
+    display: flex;
     font-style: normal;
 }
-
+.menu-li{
+    padding: 24px 0;
+}
 .adres{
     font-family: "Roboto", sans-serif;
 font-weight: 400;
@@ -118,6 +121,7 @@ color: #404bbf;
     text-align: center;
     color: #fff;
     padding: 188px 0;
+    max-width: 496px;
 }
 .title-class{
     font-family: "Roboto", sans-serif;
@@ -137,6 +141,8 @@ text-transform: capitalize
 
 }
 .page-header{
+    display: flex;
+    margin: auto;
     width: 1158px;
     background: #ffffff;
     border-bottom: 1px solid #e7e9fc
@@ -287,7 +293,6 @@ margin-right: 24px;
     background-color: #FFFFFF
 }
 .container{
-    display: flex;
     max-width: 1158px;
     padding-left: 15px;
     padding-right: 15px;
