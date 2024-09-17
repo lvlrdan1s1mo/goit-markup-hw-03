@@ -83,9 +83,11 @@ color: #404bbf;
 }
 .address-title{
     display: flex;
+    gap: 40px;
 }
 .address{
-    font-style: normal;    
+    
+    font-style: normal;
 }
 .menu-item-uno{
     display: flex;
@@ -99,6 +101,7 @@ line-height: 150%;
 letter-spacing: 0.02em;
 color: #434455;
 font-style: normal;
+padding: 24px 0;
 }
 .adres:hover,.adres:focus{
     font-family: "Roboto", sans-serif;
@@ -109,7 +112,6 @@ font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
 color: #404bbf;
-padding: 24px 0;
 }
 .title{
     font-family: "Roboto", sans-serif;
