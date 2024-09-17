@@ -292,18 +292,18 @@ margin-left: 24px;
 margin-right: 24px;
     background-color: #FFFFFF
 }
-.container-header{
+.container{
     display: flex;
     max-width: 1158px;
     padding-left: 15px;
     padding-right: 15px;
 }
-.container{
+.container-main{
     max-width: 1158px;
     padding-left: 15px;
     padding-right: 15px;
-    margin-left: auto;
     margin-right: auto;
+    margin-left: auto;
 }
 .ul-section-duos{
     display: flex;
