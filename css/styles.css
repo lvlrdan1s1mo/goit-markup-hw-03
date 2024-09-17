@@ -52,6 +52,7 @@ color: #2e2f42;
 .nav-list{
     display: flex;
     gap: 40px;
+    padding: 25px 0;
 }
 .menu-item{
     display: flex;
@@ -59,7 +60,6 @@ color: #2e2f42;
 .page-nav{
     display: flex;
     align-items: center; 
-    padding: 24px 0;
 }
 
 .menu-link{
@@ -86,12 +86,10 @@ color: #404bbf;
     display: flex;
 }
 .address{
-    font-style: normal;  
-      
+    font-style: normal;    
 }
 .menu-item-uno{
     display: flex;
-
 }
 .adres{
     display: flex;
