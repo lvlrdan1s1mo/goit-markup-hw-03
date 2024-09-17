@@ -89,10 +89,7 @@ color: #404bbf;
     display: flex;
     font-style: normal;
 }
-.menu-item-uno{
-    display: flex;
-    padding: 24px 0;
-}
+
 .adres{
     display: flex;
     font-family: "Roboto", sans-serif;
@@ -102,6 +99,7 @@ line-height: 150%;
 letter-spacing: 0.02em;
 color: #434455;
 font-style: normal;
+padding: 24px 0;
 }
 .adres:hover,.adres:focus{
     font-family: "Roboto", sans-serif;
