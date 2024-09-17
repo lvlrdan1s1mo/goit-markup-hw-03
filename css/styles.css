@@ -51,13 +51,14 @@ color: #2e2f42;
 }
 .nav-list{
     display: flex;
-    padding: 24px 0;
     gap: 40px
     
 }
 .menu-item{
     display: flex;
-
+}
+.menu-item-uno{
+    padding: 24px 0;
 }
 
 .menu-link{
@@ -89,6 +90,7 @@ color: #404bbf;
 }
 .adres{
     display: flex;
+    padding: 24px 0;
     font-family: "Roboto", sans-serif;
 font-weight: 400;
 font-size: 16px; 
@@ -96,7 +98,6 @@ line-height: 150%;
 letter-spacing: 0.02em;
 color: #434455;
 font-style: normal;
-padding: 24px 0;
 }
 .adres:hover,.adres:focus{
     font-family: "Roboto", sans-serif;
