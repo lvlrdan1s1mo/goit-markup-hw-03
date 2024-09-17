@@ -50,6 +50,7 @@ text-transform: uppercase;
 color: #2e2f42;
 }
 .menu-item{
+    display: flex;
     gap: 40px
 }
 
