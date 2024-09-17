@@ -51,13 +51,14 @@ color: #2e2f42;
 }
 .nav-list{
     display: flex;
-    gap: 40px
-    
+    gap: 40px;
 }
 .menu-item{
     display: flex;
 }
-.menu-item-uno{
+.page-nav{
+    display: flex;
+    align-items: center; 
     padding: 24px 0;
 }
 
@@ -85,12 +86,15 @@ color: #404bbf;
     display: flex;
 }
 .address{
-    font-style: normal;   
-    
+    font-style: normal;  
+      
+}
+.menu-item-uno{
+    display: flex;
+
 }
 .adres{
     display: flex;
-    padding: 24px 0;
     font-family: "Roboto", sans-serif;
 font-weight: 400;
 font-size: 16px; 
@@ -296,10 +300,6 @@ margin-right: 24px;
     margin-left: auto;
     margin-right: auto;
     display: flex
-}
-.page-nav{
-    display: flex;
-    align-items: center; 
 }
 
 .ul-section-duos{
