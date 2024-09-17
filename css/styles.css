@@ -52,7 +52,7 @@ color: #2e2f42;
 .nav-list{
     display: flex;
     gap: 40px;
-    padding: 25px 0;
+    padding: 24px 0;
 }
 .menu-item{
     display: flex;
