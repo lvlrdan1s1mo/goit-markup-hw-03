@@ -117,8 +117,7 @@ color: #404bbf;
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
-    padding: auto;
-    padding-top: 188px;
+    padding: 188px 0;
 }
 .title-class{
     font-family: "Roboto", sans-serif;
