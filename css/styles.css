@@ -49,11 +49,15 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #2e2f42;
 }
+.nav-list{
+    display: flex;
+    padding: 24px 0;
+    gap: 40px
+    
+}
 .menu-item{
     display: flex;
-    gap: 40px;
-    padding: 24px 0;
-    
+
 }
 
 .menu-link{
@@ -297,10 +301,7 @@ margin-right: 24px;
     display: flex;
     align-items: center; 
 }
-.nav-list{
-    display: flex;
-    gap: 40px
-}
+
 .ul-section-duos{
     display: flex;
 }
@@ -323,9 +324,7 @@ margin-right: 24px;
 .flex-image{
     display: flex;
 }
-.li-image{
 
-}
 
 
 
