@@ -85,6 +85,7 @@ color: #404bbf;
 }
 .address{
     font-style: normal;   
+    
 }
 .adres{
     display: flex;
@@ -95,9 +96,7 @@ line-height: 150%;
 letter-spacing: 0.02em;
 color: #434455;
 font-style: normal;
-margin-left: 40px;
-margin-bottom: 24px;
-margin-top: 24px;
+padding: 24px 0;
 }
 .adres:hover,.adres:focus{
     font-family: "Roboto", sans-serif;
