@@ -132,6 +132,7 @@ margin-right: auto;
 margin-left: auto;
 padding-top: 120px;
 padding-bottom: 72px;
+margin-bottom: 72px;
 
 /* line-height: 40px; */ 
 line-height: 111%;
@@ -294,6 +295,7 @@ color: #f4f4fd;
     width: 1440px;
     height: 732px;
     background-color: #F4F4FD;
+    padding: 120px 0
 }
 .il-uno{
     border-radius: 0 0 4px 4px;
@@ -324,6 +326,7 @@ margin-right: 24px;
 }
 .flex-li{
     display: flex;
+    gap: 24px;
     padding-left: 156px;
     padding-right: 156px;
 }
