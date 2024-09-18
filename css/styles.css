@@ -316,15 +316,13 @@ margin-right: 24px;
 }
 .ul-section-duos{
     display: flex;
+    width: calc((100% - 72px) / 4);
+    gap: 24px;
 }
 .feature{
     display: flex;
     margin-top: 120px;
     margin-bottom: 120px;
-}
-.ul-section-duos li{
-    gap: 24px;
-    width: calc((100% - 72px) / 4);
 }
 .flex-li{
     display: flex;
