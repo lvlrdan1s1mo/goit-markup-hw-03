@@ -331,6 +331,7 @@ margin-right: 24px;
     gap: 24px;
     padding-left: 156px;
     padding-right: 156px;
+    width: calc((100% - 72px) / 4);
 }
 .img-flex{
     margin-bottom: 32px;
