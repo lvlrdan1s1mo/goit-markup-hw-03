@@ -159,7 +159,6 @@ line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2e2f42;
 margin-bottom: 8px;
-width: calc((100% - 72px) / 4);
 }
 .page-title{
     font-family: "Roboto", sans-serif;
@@ -318,9 +317,10 @@ margin-right: 24px;
 .ul-section-duos{
     display: flex;
     gap: 24px;
+    flex-basis: calc((100% - 3 * 24px) / 4)
 }
 .feature{
-    flex-basis: calc((100% - 72px) / 4)  
+    flex-basis: calc((100% - 3 * 24px) / 4)  
 }
 .flex-li{
     display: flex;
