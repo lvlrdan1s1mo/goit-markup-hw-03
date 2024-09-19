@@ -177,7 +177,7 @@ color: #434455;
     font-family: "Roboto", sans-serif;
 font-weight: 500;
 font-size: 20px;
-
+margin-bottom: 8px;
 /* line-height: 24px; */ 
 line-height: 1.2;
 letter-spacing: 0.02em;
@@ -348,7 +348,10 @@ margin-right: 24px;
 .container-duos{
     padding: 32px 0;
 }
+.our-team{
+    padding: 32px 0;
 
+}
 
 
 
