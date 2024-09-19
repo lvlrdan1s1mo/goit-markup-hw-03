@@ -313,7 +313,6 @@ margin-right: auto;
 }
 .container{
     display: flex;
-    justify-content: space-between;
     width: 1158px;
     padding-left: 15px;
     padding-right: 15px;
@@ -334,9 +333,6 @@ margin-right: auto;
     padding-right: 156px;
     width: calc((100% - 72px) / 4);   
     border-radius: 0px 0px 4px 4px;
-}
-.img-flex{
-    display: flex;
 }
 .flex-image{
     display: flex;
