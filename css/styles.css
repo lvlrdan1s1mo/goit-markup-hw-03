@@ -91,7 +91,7 @@ color: #404bbf;
 }
 .menu-li{
     padding: 24px 0;
-    width: calc((100% - 72px) / 4);
+
 }
 .adres{
     font-family: "Roboto", sans-serif;
@@ -304,10 +304,8 @@ color: #f4f4fd;
     padding: 120px 0
 }
 .il-uno{
-    border-radius: 0 0 4px 4px;
 padding: 0px 0px 32px 0px;
 max-width: 264px;
-width: calc(100% / 4);
 height: 380px;
 margin-left: 24px;
 margin-right: 24px;
@@ -333,11 +331,11 @@ margin-right: 24px;
     display: flex;
     gap: 24px;
     padding-left: 156px;
-    padding-right: 156px;
-    width: calc((100% - 72px) / 4);
+    padding-right: 156px;   
 }
 .img-flex{
-    margin-bottom: 32px;
+    width: calc((100% - 72px) / 4);
+    border-radius: 0px 0px 4px 4px;
 }
 .flex-image{
     display: flex;
