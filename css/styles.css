@@ -233,6 +233,7 @@ color: #f4f4fd;
     font-family: "Roboto", sans-serif;
 font-weight: 700;
 font-size: 36px;
+margin-bottom: 72px;
 
 /* line-height: 40px; */ 
 line-height: 111%;
@@ -337,6 +338,7 @@ margin-right: auto;
 }
 .flex-image{
     display: flex;
+    flex-wrap: wrap;
 }
 .section-duos{
     padding: 120px 0;
