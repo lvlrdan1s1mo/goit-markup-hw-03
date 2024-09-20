@@ -304,6 +304,7 @@ color: #f4f4fd;
     padding: 120px 0
 }
 .il-uno{
+    width: calc((100% - 72px) / 4);
 padding: 0px 0px 32px 0px;
 max-width: 264px;
 height: 380px;
@@ -313,6 +314,7 @@ margin-right: auto;
 }
 .container{
     display: flex;
+    justify-content: space-between;
     width: 1158px;
     padding-left: 15px;
     padding-right: 15px;
@@ -345,9 +347,11 @@ margin-right: auto;
 }
 .our-team{
     padding: 32px 0;
-
 }
-
+.img-flex{
+    width: 264px;
+    height: 260px;
+}
 
 
 
