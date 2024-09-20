@@ -306,6 +306,7 @@ color: #f4f4fd;
 }
 .il-uno{
     width: calc((100% - 72px) / 4);
+    border-radius: 0px 0px 4px 4px;
 padding: 0px 0px 32px 0px;
 height: 380px;
 margin-left: auto;
@@ -346,8 +347,8 @@ margin-right: auto;
 }
 
 .img-flex{
-    width: calc((100% - 72px) / 4);
-    border-radius: 0px 0px 4px 4px;
+    width: 264px;
+    height: 260px;
 }
 .section-quatro{
     padding-top: 120px;
