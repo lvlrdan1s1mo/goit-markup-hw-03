@@ -178,6 +178,7 @@ color: #434455;
 font-weight: 500;
 font-size: 20px;
 margin-bottom: 8px;
+width: calc((100% - 72px) / 4);
 /* line-height: 24px; */ 
 line-height: 1.2;
 letter-spacing: 0.02em;
@@ -329,8 +330,7 @@ margin-right: auto;
     width: calc((100% - 72px) / 4); 
 }
 .flex-li{
-    display: flex;
-    width: calc((100% - 72px) / 4); 
+    display: flex; 
     gap: 24px;
     padding-left: 156px;
     padding-right: 156px;
@@ -340,12 +340,8 @@ margin-right: auto;
     flex-wrap: wrap;
 }
 .section-duos{
-    padding: 120px 0
+    padding: 120px 0;
 }
-.container-duos{
-    padding: 32px 0;
-}
-
 .img-flex{
     width: 264px;
     height: 260px;
