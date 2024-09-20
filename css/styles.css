@@ -306,7 +306,6 @@ color: #f4f4fd;
 .il-uno{
     width: calc((100% - 72px) / 4);
 padding: 0px 0px 32px 0px;
-max-width: 264px;
 height: 380px;
 margin-left: auto;
 margin-right: auto;
