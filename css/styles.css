@@ -339,7 +339,7 @@ margin-right: auto;
     flex-wrap: wrap;
 }
 .section-duos{
-    padding: 32px 0;
+    padding: 120px 0
 }
 .container-duos{
     padding: 32px 0;
@@ -355,7 +355,9 @@ margin-right: auto;
     padding-top: 120px;
     padding-bottom: 120px;
 }
-
+.img-cotainer{
+    width: calc((100% - 72px) / 4);
+}
 
 
 
