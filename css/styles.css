@@ -310,7 +310,7 @@ color: #f4f4fd;
 padding: 0px 0px 32px 0px;
 margin-left: auto;
 margin-right: auto;
-    background-color: #FFFFFF
+    background-color: #FFFFFF;
 }
 .container{
     display: flex;
@@ -344,7 +344,7 @@ margin-right: auto;
     padding: 120px 0;
 }
 .img-flex{
-    width: calc((100% - 72px) / 4);
+    width: 264px;
 }
 .section-quatro{
     padding-top: 120px;
