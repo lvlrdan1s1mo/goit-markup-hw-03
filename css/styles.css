@@ -315,7 +315,7 @@ margin-right: auto;
 .container{
     display: flex;
     justify-content: space-between;
-    max-width: 1158px;
+    width: 1158px;
     padding-left: 15px;
     padding-right: 15px;
     margin-right: auto;
@@ -339,6 +339,8 @@ margin-right: auto;
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
+    padding-left: 0;
+    padding-right: 0;
 }
 .section-duos{
     padding: 120px 0;
