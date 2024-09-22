@@ -32,6 +32,8 @@ font-size: 18px;
 margin-right: 76px;
 margin-top: 24px;
 margin-bottom: 24px;
+display: inline-block;
+margin-bottom: 16px;
 
 /* line-height: 21px; */ 
 line-height: 1.17;
@@ -229,8 +231,6 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #f4f4fd;
-display: inline-block;
-margin-bottom: 16px;
 }
 .title-img-section{
     font-family: "Roboto", sans-serif;
