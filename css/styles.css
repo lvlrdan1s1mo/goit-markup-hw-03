@@ -229,6 +229,8 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #f4f4fd;
+display: inline-block;
+margin-bottom: 16px;
 }
 .title-img-section{
     font-family: "Roboto", sans-serif;
