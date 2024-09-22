@@ -315,7 +315,7 @@ margin-right: auto;
 .container{
     display: flex;
     justify-content: space-between;
-    width: 1158px;
+    max-width: 1158px;
     padding-left: 15px;
     padding-right: 15px;
     margin-right: auto;
