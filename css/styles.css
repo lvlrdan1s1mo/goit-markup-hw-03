@@ -310,6 +310,7 @@ color: #f4f4fd;
     padding: 120px 0;
 }
 .il-uno{
+    width: calc((100% - 72px) / 4);
     border-radius: 0px 0px 4px 4px;
 padding: 0px 0px 32px 0px;
 margin-left: auto;
@@ -332,7 +333,6 @@ margin-right: auto;
 }
 .flex-li{
     display: flex; 
-    width: calc((100% - 72px) / 4);
     gap: 24px;
 }
 .flex-image{
