@@ -306,6 +306,7 @@ color: #f4f4fd;
     width: 1440px;
     height: 732px;
     background-color: #F4F4FD;
+    padding: 120px 0;
 }
 .il-uno{
     width: calc((100% - 72px) / 4);
@@ -352,7 +353,7 @@ margin-right: auto;
     padding-top: 120px;
     padding-bottom: 120px;
 }
-.img-cotainer{
+.img-container{
     padding: 32px 0;
     margin-bottom: 120px;
 }
