@@ -132,7 +132,7 @@ font-weight: 700;
 font-size: 36px;
 margin-right: auto;
 margin-left: auto;
-padding-top: 120px;
+padding: auto;
 margin-bottom: 72px;
 
 /* line-height: 40px; */ 
@@ -299,14 +299,12 @@ color: #f4f4fd;
 }
 .section-tres{
     margin: auto;
-    width: 1440px;
     background-color: #F4F4FD;
     padding: 120px 0;
 }
 .il-uno{
     width: calc((100% - 72px) / 4);
     border-radius: 0px 0px 4px 4px;
-padding: 0px 0px 32px 0px;
 margin-left: auto;
 margin-right: auto;
     background-color: #FFFFFF;
@@ -340,9 +338,6 @@ margin-right: auto;
 }
 .section-duos{
     padding: 120px 0;
-}
-.img-flex{
- width: auto;
 }
 .section-quatro{
     padding-top: 120px;
