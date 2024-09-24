@@ -223,6 +223,7 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #f4f4fd;
+max-width: 264px;
 }
 .title-img-section{
     font-family: "Roboto", sans-serif;
@@ -365,8 +366,4 @@ margin-right: auto;
     display: flex;
     justify-content: space-between;
 }
-.logo-footer{
-    margin-bottom: 16px;
-}
-
 
