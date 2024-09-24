@@ -366,4 +366,6 @@ margin-right: auto;
     display: flex;
     justify-content: space-between;
 }
-
+.logo-duos{
+    margin-bottom: 16px;
+}
