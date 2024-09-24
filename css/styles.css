@@ -30,8 +30,7 @@ img{
 font-weight: 700;
 font-size: 18px;
 margin-right: 76px;
-padding-top: 24px;
-padding-bottom: 24px;
+padding: auto;
 display: inline-block;
 
 /* line-height: 21px; */ 
@@ -366,6 +365,8 @@ margin-right: auto;
     display: flex;
     justify-content: space-between;
 }
-
+.logo-footer{
+    margin-bottom: 16px;
+}
 
 
